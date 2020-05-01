@@ -1,0 +1,10 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:wpf_styleTesting_partThree.ResourceDictionaries">
+    <Style TargetType="Label" x:Key="TitleLabel">
+        <Setter Property="FontSize" Value="20"/>
+        <Setter Property="Foreground" Value="#acac00"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+    </Style>
+</ResourceDictionary>
